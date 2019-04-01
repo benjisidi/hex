@@ -1,6 +1,6 @@
 let hex;
-let width = 1080;
-let height = 1080;
+let width = 800;
+let height = 800;
 let game;
 let song;
 
